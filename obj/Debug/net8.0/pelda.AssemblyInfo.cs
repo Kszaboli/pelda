@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pelda")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7872f9686d9f35b63660dea3ca414d3305cfb50d")]
 [assembly: System.Reflection.AssemblyProductAttribute("pelda")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pelda")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
