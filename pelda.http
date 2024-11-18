@@ -1,0 +1,6 @@
+@pelda_HostAddress = http://localhost:5233
+
+GET {{pelda_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
